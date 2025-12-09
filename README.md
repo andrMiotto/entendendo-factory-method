@@ -11,10 +11,4 @@ O repositório não é um produto pronto nem uma biblioteca de produção. Foi m
 ## Conteúdo
 - Exemplo(s) de implementação do Factory Method em linguagem JAVA;
 - Notas e comentários explicativos;
-- Arquivos de teste/execução simples para validar o comportamento (se houver).
 
-## Como usar
-1. Clone o repositório:
-   git clone https://github.com/andrMiotto/entendendo-factory-method.git
-2. Abra o diretório do projeto e consulte os exemplos e instruções específicas contidas nos arquivos do repositório.
-3. Execute os exemplos conforme a linguagem/stack do projeto (substitua pelos comandos apropriados).
